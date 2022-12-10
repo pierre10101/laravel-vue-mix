@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "laravel-mix": "^4.0.15",
     "tailwindcss": "^1.0.2",
     "vue": "^2.6.10",
